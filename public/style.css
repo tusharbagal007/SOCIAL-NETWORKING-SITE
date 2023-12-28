@@ -1,0 +1,49 @@
+body{
+    background-color:darkcyan;
+}
+
+
+
+h1{
+    color: maroon;
+    text-align: center;
+
+}
+
+.post{
+    background-color: blanchedalmond;
+}
+
+.user{
+    font-style: italic;
+}
+
+.post{
+    border: 1px solid black;
+    box-shadow: 4px 4px 4px black;
+    margin-left: 410px;
+    width: 50%;
+    text-align: center;
+    border-radius: 10px;
+    
+
+}
+.post:hover{
+    box-shadow: 10px 10px 10px brown;
+}
+
+.new-post{
+
+   margin-left: 400px;
+   color:antiquewhite;
+   font-size: large;
+   text-decoration: none;
+}
+
+.details{
+    margin-right: 10px;
+}
+button{
+    margin-top: 5px;
+}
+
